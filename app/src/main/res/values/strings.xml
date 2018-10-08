@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">智能车载</string>
+    <string name="action_feed">意见反馈</string>
+    <string name="action_group_chat">退出登录</string>
+    <string name="action_add_friend">添加朋友</string>
+    <string name="action_scan">扫一扫</string>
+    <string name="action_search">搜索</string>
+    <string name="action_add">添加</string>
+    <string name="tab_weixin">体检</string>
+    <string name="tab_contact">分析</string>
+    <string name="tab_find">设置</string>
+    <string name="tab_me">我</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_hight_accuracy">地图定位</string>
+
+    <string name="btnView">查看轨迹</string>
+    <string name="btnDel">删除记录</string>
+
+    <string name="hight_accuracy">高精度模式</string>
+    <string name="hight_accuracy_dec">同时使用GPS和高德网络定位，优先返回精度高的定位结果，定位精度高，耗电量低</string>
+
+    <string name="location_contiue">持续定位</string>
+    <string name="location_once">单次定位</string>
+    <string name="interval">定位周期</string>
+    <string name="millsecond">秒</string>
+    <string name="needAddress">逆地理编码</string>
+    <string name="gpsFirst">GPS优先</string>
+
+    <string name="alarmInterval">唤醒周期</string>
+    <string name="second">秒</string>
+
+    <string name="startLocation">轨迹记录</string>
+    <string name="stopLocation">停止记录</string>
+
+    <string name="meter">米</string>
+
+    <string name="defaultInteval">3</string>
+</resources>

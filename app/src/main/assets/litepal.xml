@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="VehicleStore"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <maping class="com.czapp.bean.HealthBean"></maping>
+    </list>
+</litepal>

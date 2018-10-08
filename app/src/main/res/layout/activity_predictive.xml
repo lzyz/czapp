@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <WebView
+        android:id="@+id/chartshow2_wb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></WebView>
+    <TextView
+        android:text="体温预测：37℃"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:text="心率预测：80次/分钟"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:text="血压预测：114mmHg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:text="血脂预测：4.20mmol/L"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        />
+</LinearLayout>
